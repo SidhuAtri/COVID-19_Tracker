@@ -3,3 +3,10 @@
   margin-bottom: 30px !important;
 }
 
+@media (max-width: 770px) {
+  h3 {
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+  }
+}
